@@ -85,6 +85,7 @@ test:
 #
 production:
   <<: *default
+  url: <%= ENV['DATABASE_URL'] %>
   database: RoR_Budget_App_production
   username: RoR_Budget_App
   password: <%= ENV["ROR_BUDGET_APP_DATABASE_PASSWORD"] %>
