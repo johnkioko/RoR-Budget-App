@@ -53,7 +53,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Blog-App] <a name="about-project"></a>
+# 📖 [Budget-App] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
