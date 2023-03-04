@@ -181,7 +181,10 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank:
+- [Gregoire Vella](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=) for the website design system that inspired my design.
+
+- My Coding Partiners Daphine Atim and Harrison Njuguna
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
