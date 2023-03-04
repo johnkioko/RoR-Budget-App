@@ -74,9 +74,9 @@ Postgresql
 
 > Describe between 1-3 key features of the application.
 
-- **[Create a new User]**
-- **[Add a transaction]**
-- **[ ]**
+- **[User sign-in or Sign-up]**
+- **[Add a new category]**
+- **[ Add a new transaction]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,8 +124,9 @@ To run tests, run the following command:
 ### Deployment
 
 You can deploy this project using:
-- github pages
+- Render
 - netlify
+- Heroku
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,8 +149,8 @@ You can deploy this project using:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[Creating Users]**
-- [ ] **[Adding Transactions and categories]**
+- [ ] **[Make a Desktop design for the webapp]**
+- [ ] **[Implement some UX improvements: include transitions and/or animations, etc.]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
